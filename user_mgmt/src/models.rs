@@ -59,4 +59,3 @@ pub struct UpdateComment {
     pub user_id: String,
     pub content: String,
 }
-
